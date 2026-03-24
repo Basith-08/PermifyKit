@@ -1,6 +1,6 @@
-# PermifyKit - Free & Modern RBAC Fullstack Starter Kit
+# PermifyKit - Modern RBAC Fullstack Starter Kit
 
-PermifyKit is a **completely free**, production-ready, enterprise-grade Role-Based Access Control (RBAC) starter kit. It provides a solid foundation for building secure web applications with a focus on developer experience, clean architecture, and premium aesthetics.
+PermifyKit is a production-ready, enterprise-grade Role-Based Access Control (RBAC) starter kit. It provides a solid foundation for building secure web applications with a focus on developer experience, clean architecture, and premium aesthetics.
 
 ![Dashboard Preview](image/dashboard.png)
 
